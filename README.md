@@ -18,7 +18,7 @@ Type Capture full size screenshot and click.
 
 Chrome will save the entire page as a PNG image.
 
-[![Video](thumbnail.png)](https://github.com/user-attachments/assets/6576f822-4645-40a3-8f6e-d733be0b00f0)
+[![Video](thumbnail.png)](https://github.com/user-attachments/assets/c554c037-217b-4c48-964b-3ca0bf210339)
 
 ---
 
