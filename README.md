@@ -18,10 +18,7 @@ Type Capture full size screenshot and click.
 
 Chrome will save the entire page as a PNG image.
 
-<video controls width="600">
-  <source src="https://github.com/marek7400/Chrome-Capture-full-size-screenshot/blob/main/README.md#chrome_capture_full_size_screenshotmp4" type="video/mp4">
-</video>
----
+[![Watch the demo](thumbnail.png)](https://github.com/marek7400/Chrome-Capture-full-size-screenshot/blob/main/chrome_capture_full_size_screenshotmp4" type="video/mp4)
 ---
 
 Chrome Capture full size screenshot
