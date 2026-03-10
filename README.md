@@ -29,6 +29,7 @@ Zainstaluj AutohotkeyV2 https://www.autohotkey.com/v2/
 Uruchom Chrome, wejdź na stronę, przewiń do końca.
 
 Kliknij i uruchom skrypt.
+
 ---
 Metoda ręczna (zamiast skryptu):
 
