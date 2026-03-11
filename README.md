@@ -9,7 +9,9 @@ Click and run the script.
 Is FAST BUT:
 The limit of 16,384 pixels page (exactly 16,384 x 16,384) is a hardware/architectural limitation of the Google Chrome engine itself.
 
----
+
+[![Video](thumbnail.png)](https://github.com/user-attachments/assets/c554c037-217b-4c48-964b-3ca0bf210339)
+
 Manual method (instead of the script):
 
 Launch Chrome, go to the website, scroll to the bottom.
@@ -21,8 +23,6 @@ Press Ctrl + Shift + P (a command field will open).
 Type ”Capture full size screenshot” and click.
 
 Chrome will save the entire page as a PNG image.
-
-[![Video](thumbnail.png)](https://github.com/user-attachments/assets/c554c037-217b-4c48-964b-3ca0bf210339)
 
 *
 
