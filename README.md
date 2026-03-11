@@ -5,6 +5,9 @@ Install AutohotkeyV2 https://www.autohotkey.com/v2/
 Launch Chrome, go to the website, scroll to the bottom.
 
 Click and run the script.
+
+The limit of 16,384 pixels page (exactly 16,384 x 16,384) is a hardware/architectural limitation of the Google Chrome engine itself.
+
 ---
 Manual method (instead of the script):
 
@@ -33,6 +36,8 @@ and type “"zrób pełnowymiarowy zrzut ekranu”
 *
 
 Firefox:
+
+page length limit set to 32,767 pixels
 
 Right-click on the page and select
 
@@ -81,7 +86,10 @@ Uruchom Chrome, wejdź na stronę, przewiń do końca.
 
 Kliknij i uruchom skrypt.
 
+Limit 16384 pikseli (dokładnie 16384 x 16384) to sprzętowe/architektoniczne ograniczenie samego silnika Google Chrome
+
 ---
+
 Metoda ręczna (zamiast skryptu):
 
 Uruchom Chrome, wejdź na stronę, przewiń do końca.
@@ -109,6 +117,7 @@ i wpisujemy "zrób pełnowymiarowy zrzut ekranu"
 
 Firefox:
 
+limit długości strony ustawiony na 32 767 pikseli
 
 Wciskamy na stronie prawy przycisk myszki i z menu wyubieramy
 
