@@ -29,7 +29,9 @@ Same as above, but instead of F12, press CTRL+SHIFT+J.
 Ctrl + Shift + P
 
 and type “"zrób pełnowymiarowy zrzut ekranu”
+
 *
+
 Firefox:
 
 Right-click on the page and select
@@ -68,6 +70,7 @@ Wpisz Capture full size screenshot i kliknij.
 Chrome zapisze całą stronę jako obraz PNG.
 
 *
+
 Opera po polsku:
 
 Tak samo, ale zamiast F12 wciskamy CTRL+SHIFT+J
@@ -75,7 +78,9 @@ Tak samo, ale zamiast F12 wciskamy CTRL+SHIFT+J
 Ctrl + Shift + P
 
 i wpisujemy "zrób pełnowymiarowy zrzut ekranu"
+
 *
+
 Firefox:
 
 Wciskamy na stronie prawy przycisk myszki i z menu wyubieramy
