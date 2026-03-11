@@ -112,7 +112,8 @@ Potem w prawym górnym rogu wybieramy
 
 Uwaga! Nie działa na niektórych przewijanych stronach (robi zrzut tylko widocznej strony)
 
-Nożemy również zaznaczyć dowolny element strony wybierany automatycznym selektorem lub zaznaczyć interesujący nas obszar myszką.
+Możemy również zaznaczyć dowolny element strony wybierany automatycznym selektorem lub zaznaczyć interesujący nas obszar myszką.
+
 ---
 Inny sposób:
 
