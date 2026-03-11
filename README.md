@@ -81,7 +81,9 @@ i wpisujemy "zrób pełnowymiarowy zrzut ekranu"
 
 *
 
+
 Firefox:
+
 
 Wciskamy na stronie prawy przycisk myszki i z menu wyubieramy
 
