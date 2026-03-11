@@ -46,6 +46,22 @@ Note! This does not work on some scrolling pages (it only takes a screenshot of 
 
 You can also select any element of the page using the automatic selector or select the area you are interested in with the mouse.
 
+*
+
+---
+Another way:
+
+Chrome, Opera:
+
+GoFullPage extension
+
+https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+
+*
+Firefox:
+
+Awesome Screenshot & Screen Recorder extension 
+
 ---
 
 Chrome Capture full size screenshot
@@ -96,5 +112,19 @@ Potem w prawym górnym rogu wybieramy
 Uwaga! Nie działa na niektórych przewijanych stronach (robi zrzut tylko widocznej strony)
 
 Nożemy również zaznaczyć dowolny element strony wybierany automatycznym selektorem lub zaznaczyć interesujący nas obszar myszką.
+---
+Inny sposób:
+
+Chrome, Opera:
+
+rozszerzenie GoFullPage
+
+https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+
+*
+Firefox:
+
+rozszerzenie Awesome Screenshot & Screen Recorder 
+
 
 
