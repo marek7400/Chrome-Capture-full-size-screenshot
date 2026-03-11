@@ -70,6 +70,8 @@ Awesome Screenshot & Screen Recorder extension
 
 You can also use ShareX for this purpose https://getsharex.com/downloads
 
+*
+
 ShareX Scrolling screenshot https://getsharex.com/docs/scrolling-screenshot
 
 but you need to configure it first.
