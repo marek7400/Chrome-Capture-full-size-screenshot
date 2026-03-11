@@ -6,6 +6,7 @@ Launch Chrome, go to the website, scroll to the bottom.
 
 Click and run the script.
 
+Is FAST BUT:
 The limit of 16,384 pixels page (exactly 16,384 x 16,384) is a hardware/architectural limitation of the Google Chrome engine itself.
 
 ---
@@ -85,6 +86,8 @@ Zainstaluj AutohotkeyV2 https://www.autohotkey.com/v2/
 Uruchom Chrome, wejdź na stronę, przewiń do końca.
 
 Kliknij i uruchom skrypt.
+
+Zrzut jest szybki ALE:
 
 Limit 16384 pikseli (dokładnie 16384 x 16384) to sprzętowe/architektoniczne ograniczenie samego silnika Google Chrome
 
