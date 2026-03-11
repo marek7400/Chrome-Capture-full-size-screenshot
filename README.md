@@ -46,7 +46,6 @@ Note! This does not work on some scrolling pages (it only takes a screenshot of 
 
 You can also select any element of the page using the automatic selector or select the area you are interested in with the mouse.
 
-*
 
 ---
 Another way:
@@ -62,6 +61,8 @@ Firefox:
 
 Awesome Screenshot & Screen Recorder extension 
 
+---
+---
 ---
 
 Chrome Capture full size screenshot
