@@ -20,6 +20,30 @@ Chrome will save the entire page as a PNG image.
 
 [![Video](thumbnail.png)](https://github.com/user-attachments/assets/c554c037-217b-4c48-964b-3ca0bf210339)
 
+*
+
+Opera in Polish:
+
+Same as above, but instead of F12, press CTRL+SHIFT+J.
+
+Ctrl + Shift + P
+
+and type “"zrób pełnowymiarowy zrzut ekranu”
+*
+Firefox:
+
+Right-click on the page and select
+
+“Take screenshot”
+
+Then, in the upper right corner, select
+
+“Save full page”
+
+Note! This does not work on some scrolling pages (it only takes a screenshot of the visible page).
+
+You can also select any element of the page using the automatic selector or select the area you are interested in with the mouse.
+
 ---
 
 Chrome Capture full size screenshot
@@ -43,7 +67,27 @@ Wpisz Capture full size screenshot i kliknij.
 
 Chrome zapisze całą stronę jako obraz PNG.
 
+*
+Opera po polsku:
 
+Tak samo, ale zamiast F12 wciskamy CTRL+SHIFT+J
 
+Ctrl + Shift + P
+
+i wpisujemy "zrób pełnowymiarowy zrzut ekranu"
+*
+Firefox:
+
+Wciskamy na stronie prawy przycisk myszki i z menu wyubieramy
+
+"Take screenshot"
+
+Potem w prawym górnym rogu wybieramy
+
+"Save full page"
+
+Uwaga! Nie działa na niektórych przewijanych stronach (robi zrzut tylko widocznej strony)
+
+Nożemy również zaznaczyć dowolny element strony wybierany automatycznym selektorem lub zaznaczyć interesujący nas obszar myszką.
 
 
