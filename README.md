@@ -59,7 +59,15 @@ https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechi
 *
 Firefox:
 
+*
+
 Awesome Screenshot & Screen Recorder extension 
+
+You can also use ShareX for this purpose https://getsharex.com/downloads
+
+ShareX Scrolling screenshot https://getsharex.com/docs/scrolling-screenshot
+
+but you need to configure it first.
 
 ---
 ---
@@ -128,5 +136,12 @@ Firefox:
 
 rozszerzenie Awesome Screenshot & Screen Recorder 
 
+***
+
+Można użyć do tego też programu ShareX https://getsharex.com/downloads
+
+ShareX Scrolling screenshot https://getsharex.com/docs/scrolling-screenshot
+
+ale trzeba go wpierw skonfigurować.
 
 
