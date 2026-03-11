@@ -18,7 +18,7 @@ Press F12 to open DevTools.
 
 Press Ctrl + Shift + P (a command field will open).
 
-Type Capture full size screenshot and click.
+Type ”Capture full size screenshot” and click.
 
 Chrome will save the entire page as a PNG image.
 
@@ -65,7 +65,6 @@ https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechi
 *
 Firefox:
 
-*
 
 Awesome Screenshot & Screen Recorder extension 
 
@@ -101,7 +100,7 @@ Naciśnij F12 aby otworzyć DevTools.
 
 Naciśnij Ctrl + Shift + P (otworzy się pole poleceń).
 
-Wpisz Capture full size screenshot i kliknij.
+Wpisz ”Capture full size screenshot” i kliknij.
 
 Chrome zapisze całą stronę jako obraz PNG.
 
