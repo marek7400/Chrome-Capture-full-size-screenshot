@@ -27,7 +27,8 @@ if !CheckChrome() {
     Send("{Enter}")
 
     ; Generowanie pełnego screenshota często trwa 1-3 sekundy zależnie od długości strony
-    Sleep 2000
+    Sleep 3000
     ; Zamknij DevTools
     Send("{F12}")
+
 }
